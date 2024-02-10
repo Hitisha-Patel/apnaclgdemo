@@ -1,4 +1,4 @@
-# apnaclgdemo
+*-# apnaclgdemo/
 This is my first git repository.
 <br>
-Auther- Hitisha
+Auther- Hitisha K Patel
